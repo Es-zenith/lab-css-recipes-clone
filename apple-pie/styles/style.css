@@ -32,7 +32,7 @@ h1 {
     margin-right: 200px;
     margin-bottom: 20px; 
     line-height: 1.5;
-  }
+}
 .prep-image {
     position: center;
     margin-left: 450px;
@@ -41,7 +41,6 @@ h1 {
 h3 {
     font-size: 1.5em;
     margin-left: 200px;
-    font-family: Helvetica, sans-serif;
     font-weight: 300;
     margin-bottom: 30px;
 }
@@ -54,8 +53,8 @@ hr {
 }
 
 ul {
-    margin-bottom: 30px;
-    margin-left: 200px;
     list-style-type:circle;
     line-height: 1.5;
+    text-align: left;
+    margin-left: 200px;
 }
